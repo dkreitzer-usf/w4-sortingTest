@@ -1,4 +1,12 @@
-﻿int[] bubble_sort_numbers = { 3, 62, 5, 16, 4, 10 };
+﻿/*
+ * Devan Kreitzer
+ * 
+ * Purpose: This code is to run a bubble sort on a provided array of integers. 
+ * 
+ */
+
+
+int[] bubble_sort_numbers = { 3, 62, 5, 16, 4, 10 };
 Console.WriteLine("Here is the original array that will be used to execute the Bubble Sort Algorithm: ");
 for (int i = 0; i < bubble_sort_numbers.Length; i++)
 {
