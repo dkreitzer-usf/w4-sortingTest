@@ -1,6 +1,6 @@
 ﻿/*
  * Devan Kreitzer
- * 
+ * Hello!
  * Purpose: This code is to run a bubble sort on a provided array of integers. 
  * 
  */
